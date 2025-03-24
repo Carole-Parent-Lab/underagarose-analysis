@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Collie"
+  given-names: "Samuel"
+  orcid: "https://orcid.org/0000-0001-9914-3092"
+- family-names: "Lauren"
+  given-names: "Hein"
+  orcid: "https://orcid.org/0000-0003-4604-2508"
+- family-names: "Kristen"
+  given-names: "Loesel"
+  orcid: "https://orcid.org/0000-0002-5916-8460"
+- family-names: "Carole"
+  given-names: "Parent"
+  orcid: "https://orcid.org/0000-0002-1518-1452"
+title: "underagarose-analysis"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-03-24
+url: "https://github.com/Carole-Parent-Lab/underagarose-analysis"
